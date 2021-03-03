@@ -1,0 +1,1 @@
+Bu, ajax verisi için örnektir.

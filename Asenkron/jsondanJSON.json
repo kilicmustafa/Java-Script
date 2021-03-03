@@ -1,0 +1,17 @@
+[
+    {
+        "name" : "Mustafa Kılıç",
+        "deparment" :"Software",
+        "salary" : 4000
+    },
+    {
+        "name" : "ZEHRA Kılıç",
+        "deparment" :"unemployed",
+        "salary" : 4000
+    },
+    {
+        "name" : "Ali Kılıç",
+        "deparment" :"Civil",
+        "salary" : 4000
+    }
+]

@@ -1,0 +1,16 @@
+{
+  "employees": [
+    {
+      "name": "Mustafa Kılıç",
+      "department": "sağlık",
+      "salary": 1000,
+      "id": 1
+    },
+    {
+      "name": "asfsadas",
+      "department": "sad",
+      "salary": 12321,
+      "id": 2
+    }
+  ]
+}
